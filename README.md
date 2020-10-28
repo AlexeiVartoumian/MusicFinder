@@ -5,3 +5,9 @@ Type in a music artists name and thier profile will show with a number of previe
 
 
 
+
+Special thanks to Deezer for making a public Api to connect to thier amazing database of artists and songs.
+This project was made for learning purposes and no intent to redistribute or sell content is intended.
+
+
+
